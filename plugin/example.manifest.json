@@ -1,0 +1,10 @@
+{
+  "name": "AutoNamer",
+  "id": "1441131698631953001",
+  "api": "1.0.0",
+  "main": "build/main.js",
+  "ui": "build/ui.js",
+  "editorType": ["figma", "figjam"],
+  "networkAccess": { "allowedDomains": ["none"] },
+  "documentAccess": "dynamic-page"
+}

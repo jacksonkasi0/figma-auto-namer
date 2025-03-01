@@ -2,7 +2,10 @@
   "version": "4",
   "specifiers": {
     "jsr:@hono/hono@^4.6.10": "4.7.2",
+    "npm:@azure-rest/ai-inference@*": "1.0.0-beta.5",
     "npm:@azure-rest/ai-inference@^1.0.0-beta.5": "1.0.0-beta.5",
+    "npm:@azure-rest/ai-inference@latest": "1.0.0-beta.5",
+    "npm:@azure/core-auth@*": "1.9.0",
     "npm:@azure/core-auth@^1.9.0": "1.9.0",
     "npm:@hono/zod-validator@~0.4.1": "0.4.3_hono@4.7.2_zod@3.24.2",
     "npm:zod@^3.23.8": "3.24.2"

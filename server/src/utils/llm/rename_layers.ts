@@ -69,7 +69,7 @@ export const renameLayersUsingAI = async (input: RenameLayersInput): Promise<Ren
                             content: prompt
                         }
                     ],
-                    model: "Meta-Llama-3.1-8B-Instruct",
+                    model: "Mistral-small",
                     // Optional parameters you might want to add:
                     // temperature: 0.7,
                     // max_tokens: 1000,

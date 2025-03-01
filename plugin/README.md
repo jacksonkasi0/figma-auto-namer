@@ -1,7 +1,7 @@
 
-# NexLayer
+# AutoNamer
 
-NexLayer is a Figma plugin designed to enhance your design workflow by automatically renaming layers using AI. This ensures a more organized and efficient design process.
+AutoNamer is a Figma plugin designed to enhance your design workflow by automatically renaming layers using AI. This ensures a more organized and efficient design process.
 
 ## Features
 
@@ -12,18 +12,18 @@ NexLayer is a Figma plugin designed to enhance your design workflow by automatic
 ## Installation
 
 1. Open Figma and navigate to the Community tab.
-2. Search for "NexLayer" in the plugins section.
-3. Click on the "Install" button to add NexLayer to your Figma plugins.
+2. Search for "AutoNamer" in the plugins section.
+3. Click on the "Install" button to add AutoNamer to your Figma plugins.
 
 ## Usage
 
 1. Open your Figma project.
-2. Go to the Plugins menu and select "NexLayer".
+2. Go to the Plugins menu and select "AutoNamer".
 3. The plugin will analyze your layers and automatically rename them for better organization.
 
 ## Contributing
 
-We welcome contributions to enhance NexLayer. Please fork the repository and submit a pull request with your improvements.
+We welcome contributions to enhance AutoNamer. Please fork the repository and submit a pull request with your improvements.
 
 ## License
 
